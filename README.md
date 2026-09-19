@@ -77,7 +77,7 @@ FORCE_RETRAIN_MLP = False
 FORCE_RETRAIN_FTT = False
 ```
 
-`final_pipeline_fixed.ipynb`를 순서대로 실행하면 됩니다.
+`18SEP26.ipynb`를 순서대로 실행하면 됩니다.
 
 ### 소요 시간 (T4 기준)
 | 상황 | 시간 |
